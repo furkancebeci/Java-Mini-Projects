@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java101.iml" filepath="$PROJECT_DIR$/java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArmstrongNumber/ArmstrongNumber.iml" filepath="$PROJECT_DIR$/ArmstrongNumber/ArmstrongNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AverageOfNumbersDivisibleByThreeAndFour/AverageOfNumbersDivisibleByThreeAndFour.iml" filepath="$PROJECT_DIR$/AverageOfNumbersDivisibleByThreeAndFour/AverageOfNumbersDivisibleByThreeAndFour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BodyMassIndexCalculator/BodyMassIndexCalculator.iml" filepath="$PROJECT_DIR$/BodyMassIndexCalculator/BodyMassIndexCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatingGradePointAverage/CalculatingGradePointAverage.iml" filepath="$PROJECT_DIR$/CalculatingGradePointAverage/CalculatingGradePointAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChineseZodiacFinder/ChineseZodiacFinder.iml" filepath="$PROJECT_DIR$/ChineseZodiacFinder/ChineseZodiacFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Daire/CircleAreaCalculator.iml" filepath="$PROJECT_DIR$/Daire/CircleAreaCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Combination/Combination.iml" filepath="$PROJECT_DIR$/Combination/Combination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExponentiationCalculation/ExponentiationCalculation.iml" filepath="$PROJECT_DIR$/ExponentiationCalculation/ExponentiationCalculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExponentsOfFourAndFive/ExponentsOfFourAndFive.iml" filepath="$PROJECT_DIR$/ExponentsOfFourAndFive/ExponentsOfFourAndFive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factorial/Factorial.iml" filepath="$PROJECT_DIR$/Factorial/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlightCalculator/FlightCalculator.iml" filepath="$PROJECT_DIR$/FlightCalculator/FlightCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroceryStoreProgram/GroceryStoreProgram.iml" filepath="$PROJECT_DIR$/GroceryStoreProgram/GroceryStoreProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hipotenus/Hipotenus.iml" filepath="$PROJECT_DIR$/Hipotenus/Hipotenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HoroscopeFinder/HoroscopeFinder.iml" filepath="$PROJECT_DIR$/HoroscopeFinder/HoroscopeFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" filepath="$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NotOrtalamasiHesaplama.iml" filepath="$PROJECT_DIR$/.idea/NotOrtalamasiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PassGradeCalculation/PassGradeCalculation.iml" filepath="$PROJECT_DIR$/PassGradeCalculation/PassGradeCalculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuggestingEvents/SuggestingEvents.iml" filepath="$PROJECT_DIR$/SuggestingEvents/SuggestingEvents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfMultiplesOfFourAndEvenNumbers/SumOfMultiplesOfFourAndEvenNumbers.iml" filepath="$PROJECT_DIR$/SumOfMultiplesOfFourAndEvenNumbers/SumOfMultiplesOfFourAndEvenNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taximeter.iml" filepath="$PROJECT_DIR$/Taksimetre/Taximeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/java101.iml" filepath="$PROJECT_DIR$/java101/java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaPatikasi/javaPatikasi.iml" filepath="$PROJECT_DIR$/javaPatikasi/javaPatikasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AverageOfNumbersDivisibleByThreeAndFour" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BodyMassIndexCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChineseZodiacFinder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CircleAreaCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Combination" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Daire" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExponentiationCalculation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExponentsOfFourAndFive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlightCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GroceryStoreProgram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hipotenus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HoroscopeFinder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LeapYearCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Login" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PassGradeCalculation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sorting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SuggestingEvents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SumOfMultiplesOfFourAndEvenNumbers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TaxCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java101" vcs="Git" />
   </component>
 </project>
